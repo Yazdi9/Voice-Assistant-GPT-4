@@ -63,7 +63,6 @@ https://user-images.githubusercontent.com/33378412/236269647-e0460dbc-dd53-4d65-
 
 <tr>
   <td width=25% style="text-align:center;color:gray;">
-  
 Yellowstone National Park, located in Idaho, Montana, and Wyoming, was established as the first national park in the United States. The park is a popular destination for visitors who enjoy ecological tourism as it offers forests, mountains, and abundant ecosystems to explore. Some of Yellowstone’s most well-known landmarks are its geothermal hot springs and geysers, the most famous of which is named Old Faithful.
 Last fall, Lisa and her friends decided to take a camping trip to Yellowstone National Park. They arranged to stay at one of the park’s many convenient campsites. For their camping trip, they brought their backpacks, sleeping bags, and a cooler of food and drinks. They pitched their tents immediately upon arriving to their campsite.
 During their trip, Lisa and her friends hiked the many trails of the park, exploring its natural surroundings. In the forest, they saw a lot of local wildlife. Lisa was surprised to see a family of grizzly bears, some gray wolves, and even bald eagles flying overhead. Outside of the woods, they admired the beauty of some of Yellowstone’s natural cascades.
@@ -72,7 +71,6 @@ Since Yellowstone contains many hot springs and the world’s largest area of ac
   </td>
 
   <td width=25% style="text-align:center;">
- 
 Le parc national de Yellowstone, situé dans l'Idaho, le Montana et le Wyoming, a été créé en tant que premier parc national des États-Unis. Le parc est une destination populaire pour les visiteurs qui aiment le tourisme écologique car il offre des forêts, des montagnes et des écosystèmes abondants à explorer. Certains des monuments les plus connus de Yellowstone sont ses sources chaudes géothermiques et ses geysers, dont le plus célèbre s'appelle Old Faithful.
 L'automne dernier, Lisa et ses amis ont décidé de faire du camping dans le parc national de Yellowstone. Ils se sont arrangés pour séjourner dans l'un des nombreux campings pratiques du parc. Pour leur voyage de camping, ils ont apporté leurs sacs à dos, sacs de couchage et une glacière de nourriture et de boissons. Ils ont planté leurs tentes dès leur arrivée à leur camping.
 Au cours de leur voyage, Lisa et ses amis ont parcouru les nombreux sentiers du parc, explorant son environnement naturel. Dans la forêt, ils ont vu beaucoup d'animaux sauvages locaux. Lisa a été surprise de voir une famille de grizzlis, des loups gris et même des pygargues à tête blanche voler au-dessus de sa tête. En dehors des bois, ils ont admiré la beauté de certaines des cascades naturelles de Yellowstone.
@@ -82,7 +80,6 @@ Au cours de leur voyage, Lisa et ses amis ont parcouru les nombreux sentiers du 
   </td>
 
   <td width=25% style="text-align:center;"> 
-
 Der Yellowstone-Nationalpark in Idaho, Montana und Wyoming wurde als erster Nationalpark in den Vereinigten Staaten gegründet. Der Park ist ein beliebtes Ziel für Besucher, die den ökologischen Tourismus genießen, da er Wälder, Berge und reiche Ökosysteme zum Erkunden bietet. Einige der bekanntesten Wahrzeichen von Yellowstone sind seine geothermischen heißen Quellen und Geysire, von denen der berühmteste Old Faithful heißt.
 Letzten Herbst beschlossen Lisa und ihre Freunde, einen Campingausflug in den Yellowstone-Nationalpark zu unternehmen. Sie vereinbarten, auf einem der vielen bequemen Campingplätze des Parks zu übernachten. Für ihren Campingausflug brachten sie ihre Rucksäcke, Schlafsäcke und eine Kühlbox mit Essen und Getränken mit. Sie schlugen ihre Zelte sofort nach der Ankunft auf ihrem Campingplatz auf.
 Während ihrer Reise wanderten Lisa und ihre Freunde auf den vielen Pfaden des Parks und erkundeten die natürliche Umgebung. Im Wald sahen sie viele einheimische Wildtiere. Lisa war überrascht, eine Grizzlybärenfamilie, einige Grauwölfe und sogar Weißkopfseeadler über sich hinwegfliegen zu sehen. Außerhalb des Waldes bewunderten sie die Schönheit einiger natürlicher Kaskaden von Yellowstone.
