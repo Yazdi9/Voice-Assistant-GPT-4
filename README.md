@@ -119,7 +119,11 @@ Da Yellowstone viele heiße Quellen und das weltweit größte Gebiet aktiver Gey
 
 ## LLM Models With Gradio
 
+```shell
+import gradio as gr
 
+gr.Interface.load("models/facebook/fastspeech2-en-ljspeech").launch()
+```
 
 https://user-images.githubusercontent.com/33378412/236342783-7dd4f767-81b5-4715-afb7-04ca68a7d4ab.mp4
 
