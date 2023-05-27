@@ -1,7 +1,7 @@
 from tkinter import *
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'Your_API_KEY'
 
 window = Tk()
 window.geometry("600x600")
