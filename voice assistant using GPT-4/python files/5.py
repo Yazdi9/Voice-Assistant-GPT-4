@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'Your_OpenAI_API_KEY'
 
 posts = ["python", "go", "objective c", "dart", "golang"]
 
